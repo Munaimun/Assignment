@@ -1,12 +1,35 @@
-# React + Vite
+# Restaurant Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a restaurant landing page built using React and styled with Tailwind CSS.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Description
 
-## Expanding the ESLint configuration
+This project is a responsive restaurant landing page that showcases the restaurant's brand, menu, and services. It was designed with mobile-first principles to ensure a seamless user experience across various devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The page includes sections such as:
+- **Hero Section**: A welcoming image with a call-to-action button.
+- **About Us**: Information about the restaurant.
+- **Menu**: A preview of some of the restaurant's offerings.
+- **Testimonials**: Customer reviews and feedback.
+- **Contact Information**: A contact form and social media links.
+
+## Features
+
+- Responsive design using Tailwind CSS
+- Mobile-friendly layout
+- Interactive elements for better user experience
+- Clean and modular React components
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **Figma**: Design tool used to create the layout (used as reference for the implementation)
